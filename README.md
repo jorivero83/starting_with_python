@@ -2,7 +2,7 @@
 This is step by step guide to starting with Python.
 
 ## Step1: Install Python
-- https://www.python.org/downloads/ 
+- [https://www.python.org/downloads/](https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe) 
 - The following guide could be usefull: https://docs.python.org/es/3/using/windows.html (Spanish for better understanding).
 - I prefer set the installation path into a custom location to get more control of everything e.g. C:/python
 
